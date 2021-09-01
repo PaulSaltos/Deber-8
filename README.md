@@ -16,7 +16,7 @@ DEPARTAMENTO DE ELECTRICA Y ELETRÓNICA
 
  Fecha: 01/09/2021
 
-# INFORME DE TAREA Nro. 7
+# INFORME DE TAREA Nro. 8
 
 CAPITULO 15 Y CAPITULO 16
 
@@ -52,7 +52,12 @@ Conocer los principios y aplicaciones para los elementos R,L y C Y el concepto d
 
 CAPITULO 15
 
+![image](https://user-images.githubusercontent.com/85178869/131700991-71153a6a-02dc-45d9-8593-c45134d6a1b7.png)
+
 CAPITULO 16
+
+![image](https://user-images.githubusercontent.com/85178869/131698714-bb259464-46ee-4fe1-be87-94f64e7c6ae3.png)
+
 
 # 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
@@ -97,20 +102,6 @@ Para un circuito en paralelo RL, RC y RLC, se comparó las distintasintensidades
 •https://es.scribd.com/document/159763237/Circuito-Rl
 
 • https://es.slideshare.net/mariofagundez7/fundamentos-de-corriente-alterna-monofsica
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
